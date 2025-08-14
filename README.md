@@ -1,4 +1,4 @@
-# receptor
+# Receptor de dados do ESP32 via BLE (Android/Kotlin)
 Este repositório contém o código-fonte de um aplicativo Android desenvolvido em Kotlin. O aplicativo funciona como um cliente Bluetooth Low Energy (BLE) para receber e exibir dados de um transmissor ESP32 customizado
 
 Funcionalidades
